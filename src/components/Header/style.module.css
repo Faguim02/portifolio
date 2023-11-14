@@ -6,7 +6,7 @@
     padding: 0 20px;
     width: 100%;
     position: fixed;
-    background: linear-gradient(0deg, #ffffff00, #ffffff86);
+    background-color: #ffffff86;
 }
 .container h1{
     font-size: 26px;
@@ -28,7 +28,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: baseline;
-    background-color: white;
+    
 }
 
 @media screen and (max-width : 600px) {
